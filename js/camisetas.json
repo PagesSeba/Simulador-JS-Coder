@@ -1,0 +1,92 @@
+{
+
+    "camisetas" : [
+    
+  
+        {
+            "id": 1,
+            "tipo": "CAMISETA",
+            "imagen": "../IMG/BelgranoTitular.jpg",
+            "equipo": "BELGRANO",
+            "localia": "LOCAL",
+            "precio": 6500,
+            "cId": "btnB1",
+            "btn": "botonCompraB"
+          },
+        {
+            "id": 2,
+            "tipo": "CAMISETA",
+            "imagen": "../IMG/TalleresTitular.jpg",
+            "equipo": "TALLERES",
+            "localia": "LOCAL",
+            "precio": 7000,
+            "cId": "btnT1",
+            "btn": "botonCompraT"
+          },  
+          {
+            "id": 3,
+            "tipo": "CAMISETA",
+            "imagen": "../IMG/InstitutoTitular.jpg",
+            "equipo": "INSTITUTO",
+            "localia": "LOCAL",
+            "precio": 5500,
+            "cId": "btnI1",
+            "btn": "botonCompraI"
+          },
+          {
+            "id": 4,
+            "tipo": "CAMISETA",
+            "imagen": "../IMG/RacingTitular.jpg",
+            "equipo": "RACING",
+            "localia": "LOCAL",
+            "precio": 3750,
+            "cId": "btnR1",
+            "btn": "botonCompraR"
+          },  
+        {
+            "id": 5,
+            "tipo": "CAMISETA",
+            "imagen": "../IMG/BelgranoSuplente.jpg",
+            "equipo": "BELGRANO",
+            "localia": "VISITANTE",
+            "precio": 6250,
+            "cId": "btnB2",
+            "btn": "botonCompraB"
+          },
+          {
+            "id": 6,
+            "tipo": "CAMISETA",
+            "imagen": "../IMG/TalleresSuplente.jpg",
+            "equipo": "TALLERES",
+            "localia": "VISITANTE",
+            "precio": 6900,
+            "cId": "btnT2",
+            "btn": "botonCompraT"
+          },
+          {
+            "id": 7,
+            "tipo": "CAMISETA",
+            "imagen": "../IMG/InstitutoSuplente.jpg",
+            "equipo": "INSTITUTO",
+            "localia": "VISITANTE",
+            "precio": 5500,
+            "cId": "btnI2",
+            "btn": "botonCompraI"
+          },
+          {
+            "id": 8,
+            "tipo": "CAMISETA",
+            "imagen": "../IMG/RacingSuplente.jpg",
+            "equipo": "RACING",
+            "localia": "VISITANTE",
+            "precio": 3575,
+            "cId": "btnR2",
+            "btn": "botonCompraR"
+          }
+       ]
+    
+    
+    
+    
+    
+    }
