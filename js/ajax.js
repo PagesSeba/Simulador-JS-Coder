@@ -36,7 +36,7 @@ async function agregar_card_camiseta(dato){
                                            <h5 class="card-title text-center">${dato.equipo}</h5>
                                            <p class="card-text text-center">Camiseta ${dato.localia} de la temporada 20/21</p>
                                            <p class="card-text text-center text-dark">Precio: $${dato.precio}</p>
-                                           <a href="#" id="btn_${dato.cId}" class="btn ${dato.btn} w-100" ">Agregar</a>
+                                           <button href="#" id="btn_${dato.cId}" class="btn ${dato.btn} w-100" ">Agregar</button>
                                            </div>
                                        </div>`
    
